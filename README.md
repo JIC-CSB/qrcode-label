@@ -3,8 +3,10 @@
 ## Usage
 
 ```
-python scripts/make_qrcode.py mylabel.png "This is a cool label"
+python scripts/make_label.py mylabel.png "This is a cool label"
 ```
+
+![cool label](images/mylabel.png)
 
 
 ## ORC-A font
