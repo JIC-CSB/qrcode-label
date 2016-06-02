@@ -9,7 +9,7 @@ python scripts/make_label.py mylabel.png "This is a cool label"
 ![cool label](images/mylabel.png)
 
 
-## ORC-A font
+## OCR-A font
 
 Obtained from:
 
